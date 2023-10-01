@@ -1,4 +1,4 @@
-![](./www/s258_f4m1cAOXz6WmRlBWwU2cKOqejMud7FEdJ6msLwHZ_logo_21.jpg)
+![](www/c23e02d1-c962-47d8-80ca-2605dc3ea2f4.jpg)
 
 # fileComparer: Unleash the Power of Universal File Comparison
 
